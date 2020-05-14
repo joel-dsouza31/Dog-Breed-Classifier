@@ -3,8 +3,8 @@ This is the repo of Dog breed classifier project in Udacity ML Nanodegree.
 
 ## Dataset Import
 
-Download the dog dataset here : https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
-Download the human dataset here : https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip
+<p>Download the dog dataset here : https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip </p>
+<p>Download the human dataset here : https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip </p>
 
 ## Project Overview
 The goal of the project is to build a machine learning model that can be used within web app to process real-world, user-supplied images. The algorithm has to perform two tasks:
